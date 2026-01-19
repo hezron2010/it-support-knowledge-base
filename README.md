@@ -1,19 +1,32 @@
 # IT Support Knowledge Base
 
-## Overview
-A collection of IT support documentation and best practices for remote teams. Designed for quick resolution of common issues and smooth onboarding.
+## 📘 Overview
+This repository contains structured documentation, workflows, templates, and diagrams for IT support operations.  
+It is designed to demonstrate best practices in **IT service management, support delivery, and systems administration**.
 
-## Sections
-- Password Reset Procedures
-- Microsoft Teams Troubleshooting
-- Email / Exchange Issues
-- Remote Work Best Practices
-- Onboarding Checklist
+---
 
-## Benefits
-- Improves first-contact resolution
-- Reduces escalations
-- Centralized knowledge for IT support staff
+## 🧩 Areas Covered
 
-## Tech
-- Markdown / GitHub Pages / SharePoint hosting
+### 🔹 Service Desk Operations
+- Ticket handling workflows
+- Incident management
+- Escalation procedures
+- SLA management
+
+### 🔹 User Support
+- Onboarding procedures
+- Offboarding processes
+- Account provisioning
+- Access control
+
+### 🔹 Infrastructure Support
+- Network troubleshooting
+- Endpoint management
+- Asset management
+- Backup and recovery
+
+---
+
+## 📂 Repository Structure
+
