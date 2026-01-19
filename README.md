@@ -30,3 +30,45 @@ It is designed to demonstrate best practices in **IT service management, support
 
 ## 📂 Repository Structure
 
+---
+
+## 📑 Documentation
+
+- 📄 [Onboarding Guide](docs/onboarding.md)
+- 📄 [Troubleshooting Manual](docs/troubleshooting.md)
+- 📄 [Incident Management](docs/incident-management.md)
+- 📄 [Service Desk Guide](docs/service-desk.md)
+- 📄 [Asset Management](docs/asset-management.md)
+
+---
+
+## 📊 Diagrams
+
+![Network Architecture](diagrams/network-architecture.png)  
+![Onboarding Workflow](diagrams/onboarding-workflow.png)  
+![Ticket Flow](diagrams/ticket-flow.png)
+
+---
+
+## 🧾 Templates
+
+- 📝 Incident Report Template  
+- 📝 Change Request Form  
+- 📝 User Onboarding Form  
+
+---
+
+## 🎯 Purpose
+This repository serves as:
+- A **professional IT portfolio**
+- A **knowledge base for IT teams**
+- A **reference model for service desk operations**
+- Evidence of **IT governance & documentation skills**
+
+---
+
+## 👤 Author
+**Hezron Mutua Peter**  
+IT Support Specialist | Systems Administrator | Service Desk Operations  
+📍 Mombasa, Kenya
+
